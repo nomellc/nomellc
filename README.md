@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## 🌸 Hi, I'm nomellc!
+## 🌸 Hi, I'm Yujin!
 
 Ewha Womans University Computer Science and Engineering  
 Interested in **Backend Development & AI**  
