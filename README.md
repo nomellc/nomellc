@@ -4,18 +4,16 @@
 
 ## 🌸 Hi, I'm nomellc!
 
-🎓 Ewha Womans University Computer Science and Engineering  
-💻 Interested in **Backend Development & AI**  
-✨ Enjoy open and comfortable communication when working together
-
+Ewha Womans University Computer Science and Engineering  
+Interested in **Backend Development & AI**  
+Enjoy open and comfortable communication when working together
 </div>
 
 <br>
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-<p>
-
+<div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -23,13 +21,11 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactNative-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-
-
-</p>
+</div>
 
 <br>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
 
@@ -38,3 +34,7 @@
 </p>
 
 <br>
+
+
+### 🐍 Contribution Snake
+![snake gif](https://github.com/nomellc/nomellc/blob/output/github-contribution-grid-snake.svg)
