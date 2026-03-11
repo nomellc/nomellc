@@ -1,16 +1,40 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20to%20nomellc's%20GitHub!%20🐾&fontSize=45&animation=twinkling)
 
-<!--
-**nomellc/nomellc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+## 🌸 Hi, I'm nomellc!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Ewha Womans University Computer Science and Engineering  
+💻 Interested in **Backend Development & AI**  
+✨ Enjoy open and comfortable communication when working together
+
+</div>
+
+<br>
+
+## 🛠 Tech Stack
+
+<p>
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/ReactNative-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+
+
+</p>
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nomellc&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+<br>
