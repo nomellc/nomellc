@@ -29,7 +29,7 @@ Enjoy open and comfortable communication when working together
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nomellc&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.shion.dev/api?username=nomellc&show_icons=true&theme=tokyonight"/>
 
 </p>
 
