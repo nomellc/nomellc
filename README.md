@@ -1,15 +1,6 @@
 
 <div align="center">
 
-## 🌸 Hi, I'm Yujin!
-
-Ewha Womans University Computer Science and Engineering  
-Interested in **Backend Development & AI**  
-Enjoy open and comfortable communication when working together
-</div>
-
-<br>
-
 ### 🛠 Tech Stack
 
 <div align="center">
@@ -21,16 +12,6 @@ Enjoy open and comfortable communication when working together
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactNative-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 </div>
-
-<br>
-
-### 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=nomellc&show_icons=true&theme=tokyonight"/>
-
-</p>
 
 <br>
 
